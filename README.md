@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **a few Passion Projects that you can find under my Repositories!**
 
-- 🌱 I’m currently learning **Data Science using Python**
+- 🌱 I’m currently learning **Machine Learning using Python**
 
 - 📫 Mailbox : **shamitr.mardikar@gmail.com**
 
